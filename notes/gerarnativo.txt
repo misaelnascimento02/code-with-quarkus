@@ -1,0 +1,6 @@
+https://quarkus.io/guides/building-native-image
+
+${GRAALVM_HOME}/bin/gu install native-image
+
+apt-get install build-essential
+sudo apt-get install zlib1g-dev
